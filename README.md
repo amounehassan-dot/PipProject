@@ -38,9 +38,6 @@ How PiP Works
 4. The video stays on top of all apps until the user closes it or returns to the app.
 
 
-
-
-
 What’s Inside the App
 
 - A video player
@@ -262,6 +259,17 @@ struct LocalVideoApp: App {
         }
     }
 }
+
+
+![PiP PP 2-1](https://github.com/user-attachments/assets/109e72e9-d4fd-4c7d-a843-8d61f6074bd1)
+![PiP PP 2-2](https://github.com/user-attachments/assets/65f12e83-cc04-4d6f-be49-57758a715adc)
+![PiP PP 2-3](https://github.com/user-attachments/assets/1b14fa95-749b-4650-9167-00e5a4132074)
+![PiP PP 2-4](https://github.com/user-attachments/assets/7b4813c2-ba60-4ebf-9b96-3315b57706df)
+![PiP PP 2-5](https://github.com/user-attachments/assets/ba0e0df7-6153-47e9-b590-f531299784e8)
+![PiP PP 2-6](https://github.com/user-attachments/assets/ffe14773-e4e6-439f-8323-1ecf51e1807e)
+
+
+
 
 
 
